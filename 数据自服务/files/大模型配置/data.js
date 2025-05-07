@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,_(g,h,i,_(j,k,l,m)),n,[_(o,p,g,q,i,_(j,k,l,m))],r,_(s,t,p,t),u,[v],w,_(x,y,z,A,g,B,C,_(),D,[],E,_(F,G,H,I,J,_(K,L,M,N),O,null,P,Q,Q,R,S,T,null,U,V,W,X,Y,Z,ba,V,bb,bc,_(K,L,M,bd),be,V,bf,bg,_(bh,bi,bj,bk,bl,bk,bm,bk,M,_(bn,bo,bp,bo,bq,bo,p,br)),i,_(j,m,l,m)),bs,_(p,_()),bt,_(),bu,_(bv,[])),bw,_(),bx,_());}; 
+var b="url",c="大模型配置.html",d="generationDate",e=new Date(1742871596425.68),f="defaultAdaptiveView",g="name",h="基本",i="size",j="width",k=1500,l="height",m=0,n="adaptiveViews",o="id",p="a",q="pc",r="sketchKeys",s="",t="s0",u="variables",v="OnLoadVariable",w="page",x="packageId",y="36515e3aa8684add80e3f5806c1c6eec",z="type",A="Axure:Page",B="大模型配置",C="notes",D="annotations",E="style",F="baseStyle",G="627587b6038d43cca051c114ac41ad32",H="pageAlignment",I="center",J="fill",K="fillType",L="solid",M="color",N=0xFFFFFFFF,O="image",P="imageAlignment",Q="near",R="imageRepeat",S="auto",T="favicon",U="sketchFactor",V="0",W="colorStyle",X="appliedColor",Y="fontName",Z="Applied Font",ba="borderWidth",bb="borderVisibility",bc="borderFill",bd=0xFF797979,be="cornerRadius",bf="cornerVisibility",bg="outerShadow",bh="on",bi=false,bj="offsetX",bk=5,bl="offsetY",bm="blurRadius",bn="r",bo=0,bp="g",bq="b",br=0.349019607843137,bs="adaptiveStyles",bt="interactionMap",bu="diagram",bv="objects",bw="masters",bx="objectPaths";
+return _creator();
+})());
